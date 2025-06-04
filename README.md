@@ -6,6 +6,7 @@ This repository includes a `weights_database.sql` script that defines a simple
 schema for storing datasets, models, layers, and weights used when training a
 neural network. Import it into your SQL server to experiment with managing your
 own neural-network data.
+lxex54-codex/create-sql-database-with-generic-tables
 
 ## Backend Server
 
@@ -20,3 +21,5 @@ python backend/run.py
 
 The API exposes basic endpoints under `/api` for datasets, models, and training
 runs.
+=======
+main
